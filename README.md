@@ -129,12 +129,15 @@ For example: [Ankr](https://www.ankr.com/rpc/?utm_referral=LqL9Sv86Te) is suppor
 ---
 
 ## 5. Generate Ethereum Keys
-Get an EVM Wallet with `Private Key` and `Public Address` saved.
+Create a new Ethereum wallet, then safely back up your `private key` and `public address`.
 
 ---
 
 ## 6. Get Sepolia ETH
 Fund your Ethereum Wallet with `ETH Sepolia`
+If you have Sepolia ETH in your main wallet, you can transfer it to your Aztec wallet.
+(or)
+You can buy Sepolia ETH using [Testnet Bridge](https://testnetbridge.com/sepolia)
 
 ---
 
