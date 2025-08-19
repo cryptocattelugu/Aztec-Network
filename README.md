@@ -37,6 +37,7 @@ sudo apt install curl iptables build-essential git wget lz4 jq make gcc nano aut
 ```
 
 * Install Docker: (Skip if you took Docker installed VPS)
+Wait for the installation. Docker setup usually takes 2–5 minutes.
 ```bash
 sudo apt update -y && sudo apt upgrade -y
 for pkg in docker.io docker-doc docker-compose podman-docker containerd runc; do sudo apt-get remove $pkg; done
