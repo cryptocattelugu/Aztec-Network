@@ -136,8 +136,8 @@ Create a new Ethereum wallet, then safely back up your `private key` and `public
 ## 6. Get Sepolia ETH
 Fund your Ethereum Wallet with `ETH Sepolia`
 If you have Sepolia ETH in your main wallet, you can transfer it to your Aztec wallet.
-(or)
-You can buy Sepolia ETH using [Testnet Bridge](https://testnetbridge.com/sepolia)
+-                                   (or)
+- You can buy Sepolia ETH using [Testnet Bridge](https://testnetbridge.com/sepolia)
 
 ---
 
