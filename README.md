@@ -110,7 +110,10 @@ aztec -V
 - Create a new app → fill in details → choose Ethereum → click next → app is created → select chain = Ethereum, network = Sepolia → copy the Network URL
 * `BEACON RPC`: Create an account on [drpc](https://drpc.org/) and search for `Sepolia Ethereum Beacon Chain ` Endpoints.
 
-![image](https://github.com/user-attachments/assets/eae865ab-461f-46cd-b3f9-b7d118dcbbdf)
+### To get a Beacon RPC from dRPC:
+Go to dashboard → click Add Key and name it → open Endpoints → search Ethereum Beacon → select Sepolia → copy your Beacon RPC.
+
+<img width="707" height="160" alt="image" src="https://github.com/user-attachments/assets/2d135c48-4f9b-4a30-85b7-be75c474a298" />
 
 ### Paid: 
 For example: [Ankr](https://www.ankr.com/rpc/?utm_referral=LqL9Sv86Te) is supporting `RPC URL` & `Beacon URL`. You can Register, Fund it with a little USDT via your wallet, Create a project, get your normal **sepolia rpc** and **beacon sepolia rpc**.
