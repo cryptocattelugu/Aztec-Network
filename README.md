@@ -87,7 +87,7 @@ aztec
 
 ## 3. Update Aztec
 ```bash
-aztec-up 1.2.0
+aztec-up 1.2.1
 ```
 
 ---
@@ -204,7 +204,7 @@ services:
   aztec-node:
     container_name: aztec-sequencer
     network_mode: host 
-    image: aztecprotocol/aztec:latest
+    image: aztecprotocol/aztec:1.2.1
     restart: unless-stopped
     environment:
       ETHEREUM_HOSTS: ${ETHEREUM_RPC_URL}
