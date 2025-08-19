@@ -210,6 +210,7 @@ P2P_IP=P2P_IP
 
 * Output should look like this
 <img width="950" height="458" alt="Screenshot 2025-08-19 142522" src="https://github.com/user-attachments/assets/21eeae22-f013-4976-8b80-7e548bd6cb9f" />
+
 * Ctrl + `O`
 * Then `Enter`
 * Ctrl + `X`
