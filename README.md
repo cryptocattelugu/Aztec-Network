@@ -19,9 +19,6 @@ A random weekly snapshot decides who qualifies, and the team announces it in #ap
 - Storage: 1TB SSD/NVMe
 - Network Speed: 20+ Mbps
 
-* **Prover Node**: Requiring ~40x machines with 16 cores and 128GB RAM
-* I don't run `Prover` since it's for data-center computing systems, not me.
-
 ---
 
 **Windows Users**: must install Ubuntu on Windows using this [guide](https://github.com/0xmoei/Install-Linux-on-Windows), then continue further steps.
