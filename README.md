@@ -4,9 +4,7 @@
 # Aztec Network Sequencer Node
 Learn to run an `Aztec sequencer node` in simple, baby steps.
 
-* **What types of nodes can participate in the testnet?**
   * `Sequencer`: proposes blocks, validates blocks from others, and votes on upgrades.
-  * `Prover`: generates ZK proofs that attest to roll-up integrity.
 
 ## Roles Info
 Sequecner Nodes will receive a certain role for their contribution on Discord.
