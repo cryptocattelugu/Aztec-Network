@@ -90,7 +90,7 @@ aztec
 
 ---
 
-## 3. Update Aztec
+## 3. Update Aztec (Skip this step)
 ```bash
 aztec-up 1.2.1
 ```
