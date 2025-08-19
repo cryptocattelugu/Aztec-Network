@@ -1,6 +1,5 @@
 # Aztec-Network
 <img width="900" height="511" alt="image" src="https://github.com/user-attachments/assets/5e7c9285-172e-4501-8172-e3ea9e625d4b" />
-" />
 
 # Aztec Network Sequencer Node
 A step by step guide on How to Run `Sequencer Node` on Aztec Network Testnet & Earn `Apprentice` Role.
