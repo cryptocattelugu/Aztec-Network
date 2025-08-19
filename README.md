@@ -14,21 +14,10 @@ A random weekly snapshot decides who qualifies, and the team announces it in #ap
 ---
 
 ## Hardware Requirements
-<table>
-  <tr>
-    <th colspan="3"> Sequencer Node HW Requirements </th>
-  </tr>
-  <tr>
-    <td>RAM</td>
-    <td>CPU</td>
-    <td>Disk</td>
-  </tr>
-  <tr>
-    <td><code>8-16 GB</code></td>
-    <td><code>4-9 cores</code></td>
-    <td><code>100+ GB SSD</code></td>
-  </tr>
-</table>
+CPU: 4+ Cores
+RAM: 16GB+ 
+Storage: 1TB SSD/NVMe
+Network Speed: 20+ Mbps
 
 * **Prover Node**: Requiring ~40x machines with 16 cores and 128GB RAM
 * I don't run `Prover` since it's for data-center computing systems, not me.
