@@ -1,5 +1,5 @@
 # Aztec-Network
-<img width="680" height="340" alt="image" src="<img width="900" height="511" alt="image" src="https://github.com/user-attachments/assets/5e7c9285-172e-4501-8172-e3ea9e625d4b" />
+<img width="900" height="511" alt="image" src="https://github.com/user-attachments/assets/5e7c9285-172e-4501-8172-e3ea9e625d4b" />
 " />
 
 # Aztec Network Sequencer Node
