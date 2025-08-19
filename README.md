@@ -2,7 +2,7 @@
 <img width="900" height="511" alt="image" src="https://github.com/user-attachments/assets/5e7c9285-172e-4501-8172-e3ea9e625d4b" />
 
 # Aztec Network Sequencer Node
-Learn to run an Aztec sequencer node in simple, baby steps.
+Learn to run an `Aztec sequencer node` in simple, baby steps.
 
 * **What types of nodes can participate in the testnet?**
   * `Sequencer`: proposes blocks, validates blocks from others, and votes on upgrades.
