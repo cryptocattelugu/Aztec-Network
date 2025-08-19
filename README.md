@@ -7,9 +7,9 @@ Learn to run an `Aztec sequencer node` in simple, baby steps.
   * `Sequencer`: sequencer node on Aztec is the one that orders transactions, builds blocks, and helps secure the network.
 
 ## Roles Info
-Sequecner Nodes will receive a certain role for their contribution on Discord.
+You can earn the Guardian role by running an Aztec sequencer node. 
 
-After running and syncing your Sequencer node, You can go through [Get Role](https://github.com/0xmoei/aztec-network/blob/main/README.md#get-apprentice-discord-role) step.
+A random weekly snapshot decides who qualifies, and the team announces it in #apprentice-announcements once it’s done.
 
 ---
 
