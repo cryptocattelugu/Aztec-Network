@@ -98,7 +98,7 @@ Make sure you are on 1.2.1
 ```bash
 aztec -V
 ```
-
+<img width="920" height="31" alt="image" src="https://github.com/user-attachments/assets/5c3366cb-326d-4681-a240-e155cc08ef1f" />
 
 ---
 
