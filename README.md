@@ -106,6 +106,8 @@ aztec -V
   
 ### Free:
 * `RPC URL`: Create a Sepolia Ethereum HTTP API in [Alchemy](https://dashboard.alchemy.com/)
+* To get an Sepolia RPC from Alchemy:
+Create a new app → fill in details → choose Ethereum → click next → app is created → select chain = Ethereum, network = Sepolia → copy the Network URL
 * `BEACON RPC`: Create an account on [drpc](https://drpc.org/) and search for `Sepolia Ethereum Beacon Chain ` Endpoints.
 
 ![image](https://github.com/user-attachments/assets/eae865ab-461f-46cd-b3f9-b7d118dcbbdf)
