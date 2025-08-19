@@ -246,8 +246,12 @@ services:
     volumes:
       - /root/.aztec/alpha-testnet/data/:/data
 ```
-Note: My node data directory configued in `docker-compose.yml` is `/root/.aztec/alpha-testnet/data/`, yours can be anything.
 
+- Ctrl + `O`
+- Press `Enter`
+- Ctrl + `X`
+
+  
 * Run Node Docker:
 ```bash
 docker compose up -d
