@@ -14,10 +14,10 @@ A random weekly snapshot decides who qualifies, and the team announces it in #ap
 ---
 
 ## Hardware Requirements
-CPU: 4+ Cores
-RAM: 16GB+ 
-Storage: 1TB SSD/NVMe
-Network Speed: 20+ Mbps
+- CPU: 4+ Cores
+- RAM: 16GB+ 
+- Storage: 1TB SSD/NVMe
+- Network Speed: 20+ Mbps
 
 * **Prover Node**: Requiring ~40x machines with 16 cores and 128GB RAM
 * I don't run `Prover` since it's for data-center computing systems, not me.
