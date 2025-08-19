@@ -96,7 +96,7 @@ aztec-up 1.2.1
 ```
 Make sure you are on 1.2.1
 ```bash
-aztec-V
+aztec -V
 ```
 
 
