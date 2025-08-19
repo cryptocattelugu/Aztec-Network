@@ -260,7 +260,7 @@ docker compose up -d
 <img width="950" height="101" alt="image" src="https://github.com/user-attachments/assets/cd681ea1-c7fe-4fab-ad67-e95e03bb3330" />
 
 
-* Node Logs:
+* To check Node Logs:
  ```bash
 docker compose logs -fn 1000
 ```
