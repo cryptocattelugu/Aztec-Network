@@ -64,6 +64,8 @@ sudo systemctl enable docker
 sudo systemctl restart docker
 ```
 
+Enter `Y` if asked
+
 ---
 
 ## 2. Install Aztec Tools
