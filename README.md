@@ -74,7 +74,7 @@ sudo systemctl restart docker
 bash -i <(curl -s https://install.aztec.network)
 ```
 <img width="593" height="277" alt="image" src="https://github.com/user-attachments/assets/e100a842-9f6b-406c-8a27-edddb0d93c2b" />
-Click `Y` if asked
+- Click `Y` if asked
 
 ```bash
 echo 'export PATH="$HOME/.aztec/bin:$PATH"' >> ~/.bashrc
