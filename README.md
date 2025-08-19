@@ -134,7 +134,7 @@ Create a new Ethereum wallet, then safely back up your `private key` and `public
 ---
 
 ## 6. Get Sepolia ETH
-Fund your Ethereum Wallet with `ETH Sepolia`
+Fund your Ethereum Wallet with `ETH Sepolia` (MIN 1 ETH)
 
 - If you have Sepolia ETH in your main wallet, you can transfer it to your Aztec wallet.
                                    (or)
