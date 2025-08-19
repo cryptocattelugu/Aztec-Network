@@ -63,6 +63,7 @@ sudo docker run hello-world
 sudo systemctl enable docker
 sudo systemctl restart docker
 ```
+<img width="406" height="56" alt="image" src="https://github.com/user-attachments/assets/b2edbda2-a33b-4689-825d-ef2561225d4e" />
 
 Enter `Y` if asked
 
