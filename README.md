@@ -161,7 +161,9 @@ ufw enable
 ufw allow 40400
 ufw allow 8080
 ```
+<img width="944" height="187" alt="image" src="https://github.com/user-attachments/assets/a8278de2-f927-4abf-be06-1c4eb7e360e6" />
 
+- `Y` and then Enter
 ---
 
 ## 9. Run Sequencer Node
