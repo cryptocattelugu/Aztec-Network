@@ -21,8 +21,6 @@ A random weekly snapshot decides who qualifies, and the team announces it in #ap
 
 ---
 
-**Windows Users**: must install Ubuntu on Windows using this [guide](https://github.com/0xmoei/Install-Linux-on-Windows), then continue further steps.
-
 **VPS Users**: can get started via a `VPS` with 4 cores CPU, 8GB RAM! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==)
 
 ---
