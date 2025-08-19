@@ -4,7 +4,7 @@
 # Aztec Network Sequencer Node
 Learn to run an `Aztec sequencer node` in simple, baby steps.
 
-  * `Sequencer`: proposes blocks, validates blocks from others, and votes on upgrades.
+  * `Sequencer`: sequencer node on Aztec is the one that orders transactions, builds blocks, and helps secure the network.
 
 ## Roles Info
 Sequecner Nodes will receive a certain role for their contribution on Discord.
