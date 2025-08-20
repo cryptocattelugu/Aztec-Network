@@ -322,7 +322,7 @@ Make sure your Sequencer node is fully synced, before you proceed with Validator
 * Connect the wallet you used to run your Aztec sequencer node
 * Make sure your passport has NFC (electronic chip)
 * After verification, you’ll enter the validator registration queue and earn the Explorer Discord role
-* If you don’t have a passport or it lacks a chip, fill out the form to join the validator set 
+* If you don’t have a passport or it lacks a chip, fill out the form to join the validator set https://tally.so/r/mVWM7v
 
 ---
 
@@ -399,68 +399,6 @@ Replace the following variables before you Run the node:
 * `0xYourPrivateKey`: Your EVM wallet private key starting with `0x...`
 * `0xYourAddress`: Your EVM wallet public address starting with `0x...`
 * `IP`: Your server IP (Step 7)
-
----
-
-## Run Multiple Validators
-This step seems limited to only teams and individuals in active set. Team is encouraging teams to run 10 validators. Ask the team if you are going to run more validators
-
-### Docker Method
-1- Open `docker-compose.yml`
-```
-cd aztec
-nano docker-compose.yml
-```
-
-2- Update private key:
-* Update `VALIDATOR_PRIVATE_KEY: ${VALIDATOR_PRIVATE_KEY}` under `environment` with the following:
-```
-VALIDATOR_PRIVATE_KEYS: ${VALIDATOR_PRIVATE_KEYS}
-```
-* We added `s`
-
-3- Add publisher key variable:
-* Adding a publisher wallet will make you handle all the transactions of your validators with on wallet
-* Add `SEQ_PUBLISHER_PRIVATE_KEY: ${SEQ_PUBLISHER_PRIVATE_KEY}` somewhere under `environment` in `docker-compose.yml`
-
-
-4- Open `.env`
-```
-nano .env
-```
-
-5- Update private key:
-* Update `VALIDATOR_PRIVATE_KEY` to `VALIDATOR_PRIVATE_KEYS`
-* Values of `VALIDATOR_PRIVATE_KEYS` must be a comma (`,`) separated list. (`"0x123...,0x234...,0x345..."`)
-
-6- Optional: Add publisher key variable:
-`SEQ_PUBLISHER_PRIVATE_KEY`: The value of this is the privatekey of the wallet positng the transactions. This means you only need to fund sepETH to this wallet if you run multiple validators.
-
-7- Register each validator on the network
-* Do it manually or reach the team.
-
-#
-
-### CLI Method
-* 1- Update your CLI start command to use `--sequencer.validatorPrivateKeys` (see added `s`) instead of `--sequencer.validatorPrivateKey` if you want to run multiple validators.
-  * The value of this should be a comma (`,`) separated list.
-   
-* 2- Optional: Use `--sequencer.publisherPrivateKey` which will be the address the transactions are posted from. This means you only need to fund sepETH to this address if you run multiple validators.
-
-Example:
-```
-aztec start --node --archiver --sequencer \
-  --network alpha-testnet \
-  --l1-rpc-urls RPC_URL  \
-  --l1-consensus-host-urls BEACON_URL \
-  --sequencer.validatorPrivateKeys "0xPrivatekey1,0xPrivatekey2,0xPrivatekey3" \
-  --sequencer.publisherPrivateKey 0xPrivatekeyX
-  --sequencer.coinbase 0xYourAddress \
-  --p2p.p2pIp IP
-```
-
-* 3- Register each validator on the network
-  * Do it manually or reach the team.
 
 ---
 
