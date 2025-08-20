@@ -103,6 +103,8 @@ aztec -V
 ---
 
 ## 4. Obtain RPC URLs
+
+Best way is to Run your own geth and prysm node to get `Sepolia RPC URL` and `Beacon RPC URL` Follow guide if you want to run on your own [geth-prysm](https://github.com/cryptocattelugu/Ethereum-Full-Node)
   
 ### Free:
 * `RPC URL`: Create a Sepolia Ethereum HTTP API in [Alchemy](https://dashboard.alchemy.com/)
