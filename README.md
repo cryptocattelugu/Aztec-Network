@@ -349,7 +349,7 @@ docker compose down -v
 2- Update CLI commands
 ```bash
 source ~/.bashrc
-aztec-up 1.2.0
+aztec-up 1.2.1
 ```
 
 3- Delete old data
@@ -376,7 +376,7 @@ screen -ls | grep -i aztec | awk '{print $1}' | xargs -I {} screen -X -S {} quit
 2- Update CLI commands
 ```bash
 source ~/.bashrc
-aztec-up 1.2.0
+aztec-up 1.2.1
 ```
 
 3- Delete old data
@@ -472,7 +472,7 @@ If you encountered: `ERROR: world-state:block_stream Error processing block stre
 
 ---
 
-## Get Guardian Discord Role:
+## To Get Guardian Discord Role:
 Claim the Guardian role as you are running a Sequencer Node and keep an uptime.
 
 * To claim:
