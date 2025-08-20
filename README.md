@@ -303,7 +303,7 @@ Replace the following variables before you Run Node:
 
 ---
 
-## 10. Sync Node
+## 10. Sync Node (Optional)
 After entering the command, your node starts running, It takes a few minutes for your node to get synced.
 
 * Check the latest synced block number of your sequencer:
@@ -312,9 +312,6 @@ curl -s -X POST -H 'Content-Type: application/json' \
 -d '{"jsonrpc":"2.0","method":"node_getL2Tips","params":[],"id":67}' \
 http://localhost:8080 | jq -r ".result.proven.number"
 ```
-* Check the latest block number of Aztec network: https://aztecscan.xyz/
-
----
 
 ## 11. Register Validator
 Make sure your Sequencer node is fully synced, before you proceed with Validator registration.
