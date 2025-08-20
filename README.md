@@ -123,7 +123,9 @@ For example: [Ankr](https://www.ankr.com/rpc/?utm_referral=LqL9Sv86Te) is suppor
 <img width="950" height="383" alt="Screenshot 2025-08-20 092517" src="https://github.com/user-attachments/assets/794dedf6-2262-458b-ad6b-428030aca21f" />
 
 
+
 > You can run your own Geth & Prysm nodes to get your own `RPC URL` & `BEACON RPC` or find any other 3rd party solutions
+
 
 ---
 
