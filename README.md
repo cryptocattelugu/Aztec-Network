@@ -21,7 +21,7 @@ A random weekly snapshot decides who qualifies, and the team announces it in #ap
 
 ---
 
-**VPS Users**: can get started via a `VPS` with 4 cores CPU, 16GB RAM! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==)
+**VPS Users**: can get started via a `VPS` with 4 cores CPU, 16GB RAM! [Contabo](https://contabo.com/en/)
 
 ---
 
