@@ -120,12 +120,12 @@ Go to dashboard → click Add Key and name it → open Endpoints → search Ethe
 ### Paid: 
 For example: [Ankr](https://www.ankr.com/rpc/?utm_referral=XTqd8eN4w5)) is supporting `RPC URL` & `Beacon URL`. You can Register, Fund it with a little USDT via your wallet, Create a project, get your normal **sepolia rpc** and **beacon sepolia rpc**.
 
-*Steps:
+* Steps:
 - Click `Create Project` & give it a name and select chain as `Ethereum` and then click `Create`
 
 <img width="662" height="296" alt="Screenshot 2025-08-20 094656" src="https://github.com/user-attachments/assets/1cdb1fa7-8da8-43ec-912f-748b76274d91" />
 
-To get Beacon RPC from Ankr
+- To get Beacon RPC from Ankr
 <img width="670" height="229" alt="Screenshot 2025-08-20 094904" src="https://github.com/user-attachments/assets/dbabaac1-31f3-48df-9fb2-993b979f1a15" />
 
 
