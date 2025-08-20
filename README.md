@@ -120,9 +120,8 @@ Go to dashboard → click Add Key and name it → open Endpoints → search Ethe
 ### Paid: 
 For example: [Ankr](https://www.ankr.com/rpc/?utm_referral=LqL9Sv86Te) is supporting `RPC URL` & `Beacon URL`. You can Register, Fund it with a little USDT via your wallet, Create a project, get your normal **sepolia rpc** and **beacon sepolia rpc**.
 
-![image](https://github.com/user-attachments/assets/cfde5dec-ac1a-4d58-855b-43c4374c5c87)
+<img width="950" height="383" alt="Screenshot 2025-08-20 092517" src="https://github.com/user-attachments/assets/794dedf6-2262-458b-ad6b-428030aca21f" />
 
-![image](https://github.com/user-attachments/assets/ffb97518-cd24-46ee-b131-92b2870ac407)
 
 > You can run your own Geth & Prysm nodes to get your own `RPC URL` & `BEACON RPC` or find any other 3rd party solutions
 
