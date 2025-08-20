@@ -321,14 +321,16 @@ Make sure your Sequencer node is fully synced, before you proceed with Validator
 
 **Official Validator Registration: ZKPassport**
 * Visit: https://testnet.aztec.network/add-validator
-* Complete ZKPassport humanity verification
-* Follow the steps to connect your validator wallet and register your validator on the network
-* After competion, you will get into the queue of validator registration and will earn **Explorer** discord role
+* Complete ZKPassport humanity verification:
+* Connect the wallet you used to run your Aztec sequencer node
+* Make sure your passport has NFC (electronic chip)
+* After verification, you’ll enter the validator registration queue and earn the Explorer Discord role
+* If you don’t have a passport or it lacks a chip, fill out the form to join the validator set 
 
 ---
 
 ## 12. Aztec Dashboard
-* Visit the [Dashboard](https://dashtec.xyz/)
+* Visit the https://dashtec.xyz/
 * Check your validators health
 * Connect your X & Discord
 
