@@ -16,7 +16,7 @@ A random weekly snapshot decides who qualifies, and the team announces it in #ap
 ## Hardware Requirements
 - CPU: 4+ Cores
 - RAM: 16GB+ 
-- Storage: 1TB SSD/NVMe
+- Storage: 500GB+ SSD/NVMe
 - Network Speed: 20+ Mbps
 
 ---
